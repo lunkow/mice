@@ -20,7 +20,7 @@ Normal weight is 400
 
 @font-face {
   font-family: "Muller";
-  font-weight: normal;
+  font-weight: 400;
   font-style: normal;
   src: url("../fonts/MullerRegular.eot");
 }
