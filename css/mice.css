@@ -22,7 +22,7 @@ Normal weight is 400
   font-family: "Muller";
   font-weight: normal;
   font-style: normal;
-  src: url("../fonts/MullerRegular.otf");
+  src: url("../fonts/MullerRegular.eot");
 }
 
 @font-face {
@@ -976,7 +976,7 @@ footer {
     width: 20px;
     height: 20px;
     left: -24px;
-    top: 0px;
+    /*top: 0px;*/
   }
 }
 
@@ -1326,6 +1326,7 @@ h2.numers__title.expect{
 
   .action__phone-text{
     font-size: 1em;
+    margin-bottom: 0.5em;
   }
   .footer__links a.footer__link-tel{
     margin-left: 3vw;
